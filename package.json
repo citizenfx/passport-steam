@@ -31,7 +31,7 @@
   },
   "main": "./lib/passport-steam",
   "dependencies": {
-    "passport-openid": "^0.4.0",
+    "passport-openid": "https://github.com/citizenfx/passport-openid/tarball/master",
     "steam-web": "0.4.0"
   },
   "devDependencies": {
